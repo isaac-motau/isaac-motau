@@ -62,5 +62,5 @@ English (Fluent) &nbsp;·&nbsp; IsiZulu (Fluent) &nbsp;·&nbsp; Sepedi (Home)
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaac-motau&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isaac-motau&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" />
 </p>
