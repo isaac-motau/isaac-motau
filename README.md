@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/TechnifiedWorld"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/therealisaacm"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" /></a>
   <a href="https://github.com/TechnifiedWorld"><img src="https://img.shields.io/badge/Building-TechnifiedWorld-181717?style=flat-square&logo=github" /></a>
   <img src="https://img.shields.io/badge/Open_to_Work-Remote-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-South_Africa-007A4D?style=flat-square" />
